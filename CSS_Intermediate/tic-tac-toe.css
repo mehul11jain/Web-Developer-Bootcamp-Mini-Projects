@@ -1,0 +1,29 @@
+td{
+	width: 100px;
+	height: 100px;
+}
+.same{
+	border-bottom: 2px solid black;
+	border-right: 2px solid black;
+}
+/*.mid1{
+	border-bottom: 2px solid black;
+	border-right: 2px solid black;
+	/*border-left: 2px solid black;*/
+/*}
+.Rcorner1{
+		border-bottom: 2px solid black;
+	border-right: 2px solid black;
+}*/
+.same3{
+	border-right: 2px solid black;
+}
+table{
+	margin:50px auto 50px auto; 
+}
+.samel{
+		border-bottom: 2px solid black;
+}
+h1{
+	text-align: center;
+}
